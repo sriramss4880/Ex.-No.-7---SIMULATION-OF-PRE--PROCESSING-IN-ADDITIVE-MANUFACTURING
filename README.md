@@ -24,7 +24,7 @@
 ### b. Support Structure:
 ### Support structures are required where the objects are unable to get printed directly. Support structures help to guarantee the printability of a section during the 3D printing measure and also it can assist with forestalling part twisting, secure a section to the printing bed and guarantee that parts are joined to the fundamental body of the printed part.
 
-### c. Slicing:
+### c. Slicing: 
 ### The motive behind slicing a 3D model is to transform the model into guidelines for the 3D printer. To play out this errand, the slicing software isolates the item into numerous layers. It's classified "slicing" since it "slices" the 3D model to make numerous layers. After the layers have been made, the slicing software applies different qualities to every one of them.
 
 ### d. Path Planning:
@@ -44,9 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/sriramss4880/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120554177/047a2253-ce34-4eb7-b41c-9ad9d4c37562)
 
-### Name:
-### Register Number:
+### Name:S S Sriram
+### Register Number: 212222230150
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
